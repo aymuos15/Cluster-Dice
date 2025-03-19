@@ -3,8 +3,4 @@
 Authors: Soumya Snigdha Kundu, Aaron Kujawa, Marina Ivory, Theodore Barfoot, Jonathan
 Shapey and Tom Vercauteren.
 
-**utils.py:** Contains some plotting and table code.
-
-**visualisation.ipynb:** Contains a notebook giving visual unit test and explanation of the pitfalls of the metrics.
-
-**Performance Results:** Please refer to the paper.
+For code: Please refer to our new repo `InstaMatch` encomapassing all recent instance sensitive metrics: https://github.com/aymuos15/InstaMatch
